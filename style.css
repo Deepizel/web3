@@ -2,11 +2,16 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .slots, .slots1, .slots2, .slots3, .slots4, .slots5, .slots6, .slots7 , .slots8 , .slots9 {
    border: 2px solid;
    height: 30px;
    width: 30px;
+   background-color: antiquewhite;
 }
 
 
@@ -14,6 +19,7 @@
    border: 1px solid;
    height: 50px;
    width: 50px;
+   background-color: aquamarine;
 }
 .slotssection{
     display: flex;
@@ -27,6 +33,7 @@
     width: 500px;
     margin-top: 70px;
     margin-left: 50px;
+    background-color: rgb(121, 134, 130);
 }
 
 .timeinx{
