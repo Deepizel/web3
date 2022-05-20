@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.slots, .slots1, .slots2, .slots3, .slots4, .slots5, .slots6, .slots7 , .slots8 , .slots9 {
+   border: 2px solid;
+   height: 30px;
+   width: 30px;
+}
+
+
+.slots10,.slots11, .slots12, .slots13, .slots14 {
+   border: 1px solid;
+   height: 50px;
+   width: 50px;
+}
+.slotssection{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.dashsection{
+    border: 1px solid;
+    height: 300px;
+    width: 500px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.timein{
+    display: flex;
+}
+
+.inputform{
+    margin-left: 40px;
+    margin-top: 30px;
+}
